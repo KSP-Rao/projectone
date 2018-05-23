@@ -1,0 +1,18 @@
+.modal-content
+{
+    background-color:#a295849c;
+}
+.modal-body p
+{
+  color:black;
+  font-weight:bold;
+}
+.modal-body i{
+    color:white;
+    font-weight:normal;
+}
+.modal-header , .modal-footer
+{
+    border-bottom:none;
+    border-top:none;
+}
